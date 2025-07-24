@@ -29,7 +29,7 @@ Designed to be minimal, responsive, and fully open-source for hardware hacking f
 ![PCB](images/PCB.png)
 
 ### 🧱 3D Printed Case  
-![Top Case](images/Top case.png)
+![Top Case](images/Topcase.png)
 ![Bottom Case](images/bottomcase.png)
 
 ---
