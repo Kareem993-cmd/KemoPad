@@ -1,4 +1,4 @@
-# HACKPAD
+# KemoPad
 
 ![Hackpad Hero Image](images/hackpad-hero.jpg)
 
