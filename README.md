@@ -3,7 +3,7 @@
 ![Hackpad Hero Image](images/hackpad-hero.jpg)
 
 ## 🧠 Overview
-**HACKPAD** is a compact macropad featuring 4 tactile push buttons and 2 SK6812 RGB LEDs for interactive lighting.  
+**KemoPad** is a compact macropad featuring 4 tactile push buttons and 2 SK6812 RGB LEDs for interactive lighting.  
 It is powered by a Seeed XIAO RP2040 and uses **KMK firmware** built on CircuitPython.  
 Designed to be minimal, responsive, and fully open-source for hardware hacking fun.
 
